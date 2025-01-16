@@ -1,5 +1,5 @@
 # -LOIUS-SUPER-MART-SALES-REPORT-FOR-THE-YEAR-2014
-This dataset provides detailed information on customer orders, capturing various aspects of the transaction. It includes customer details ,Order Date, Salesperson, and the Region where the order originated, as well as the Shipped Date, Shipper Name, and details of the shipping destination 
+This analysis provides detailed information on customer orders, capturing various aspects of the transaction. It includes customer details ,Order Date, Salesperson, and the Region where the order originated, as well as the Shipped Date, Shipper Name, and details of the shipping destination 
 OBSERVATION
 
 The analytics for Lious super mart in 2014 provides a comprehensive overview of product performance across various regions. It highlights key metrics such as Transaction by Amount, Regional Sales Performance, Top Performing Companies, Sales Representatives' Performance, and Product Sales.
